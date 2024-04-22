@@ -1,0 +1,107 @@
+@import url(https://fonts.googleapis.com/css?family=Mooli:regular);
+
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+
+
+
+
+
+/* *{
+    margin:0px;
+    padding:0px
+    
+}
+
+
+
+
+.header{
+    display: flex;
+  
+   justify-content: space-between;
+   margin:12px;
+   border:solid 2px;
+
+}
+
+
+.navitems>ul{
+
+    list-style-type: none;
+    display: flex;
+
+}
+
+.navitems>ul>li{
+    padding:10px;
+    font-family: "Mooli" , sans-serif;
+    
+    font-size: 25px;
+    color :black
+
+}
+
+.logoimg{
+    width : 80px;
+    height: auto;
+    border-radius: 10px;
+    margin: 2px;
+}
+
+.card{
+    width:200px;
+    border: solid 2px;
+    padding: 10px;
+    margin:10px;
+}
+
+.card>img{
+    width: 150px;
+}
+
+.restaurant-list{
+    display: flex;;
+    flex-wrap: nowrap;
+}
+
+
+.shimmer-cards{
+    width:200px;
+    height: 200px;
+    background: lightgray;
+   margin: 20px;
+}
+
+
+.menuimg{
+    width: 200px;
+    height:auto;
+}
+
+.menuDiv{
+    width:300px ;
+    height:auto;
+    margin : 20px;
+    border : 2px solid black;
+    padding:20px
+}
+
+.list-menu{
+    width :300px;
+    height: auto;
+    display: flex;
+}
+
+.imgmenu{
+    width:200px
+}
+
+.mainDivMenu{
+    display:flex;
+    flex-wrap: wrap;
+} */
